@@ -1,0 +1,13 @@
+HTTrack3.48-19+htsswf+htsjava launched on Fri, 20 Feb 2015 18:37:58 at http://condorthemes.com/flatdream/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://condorthemes.com/flatdream/index.html -O1 "E:\my_web\flat" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:38:56	Error: 	"Not Found" (404) at link condorthemes.com/flatdream/index2.html (from condorthemes.com/flatdream/index.html)
+18:45:22	Warning: 	File not parsed, looks like binary: condorthemes.com/flatdream/js/jquery.upload/server/php/files/crop.php?src=
+
+HTTrack Website Copier/3.48-19 mirror complete in 7 minutes 25 seconds : 260 links scanned, 258 files written (15377029 bytes overall) [10994710 bytes received at 24707 bytes/sec], 6306022 bytes transferred using HTTP compression in 168 files, ratio 29%, 16.2 requests per connection
+(1 errors, 1 warnings, 0 messages)

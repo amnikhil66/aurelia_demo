@@ -1,0 +1,10 @@
+<template>
+    <div id="cl-wrapper">
+        <require from="widgets/nav-bar"></require>
+        <compose view="widgets/sidebar.html" view-model="widgets/sidebar" class="compose_sidebar"></compose>
+        <div class="container-fluid main-container" id="pcont">
+            <nav-bar></nav-bar>
+            <compose view="widgets/userlist.html" view-model="widgets/userlist"></compose>
+        </div>
+    </div>
+</template>
